@@ -1,4 +1,4 @@
-var blessed = require('blessed')
+var blessed = require('@hp4k1h5/blessed')
 , contrib = require('../index')
 
 function randomColor() {

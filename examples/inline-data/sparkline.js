@@ -1,5 +1,5 @@
 
-var blessed = require('blessed')
+var blessed = require('@hp4k1h5/blessed')
   , contrib = require('../../')
   , screen = blessed.screen()
 
