@@ -1,7 +1,7 @@
 {
-  "name": "blessed-contrib",
-  "version": "4.8.20",
-  "description": "",
+  "name": "@hp4k1h5/blessed-contrib",
+  "version": "0.0.1",
+  "description": "fork of yaronn's blessed-contrib",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yaronn/blessed-contrib.git"
+    "url": "https://github.com/hp4k1h5/blessed-contrib.git"
   },
-  "author": "Yaron Naveh (yaronn01@gmail.com)",
+  "author": "hp4k1h5 (robertwalks@gmail.com)",
   "license": "MIT",
   "devDependencies": {
     "@types/blessed": "^0.1.6",
