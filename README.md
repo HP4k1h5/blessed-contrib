@@ -1,4 +1,13 @@
-## blessed-contrib
+## fork of yaronn's [blessed-contrib](https://github.com/yaronn/blessed-contrib)
+
+### purpose
+this fork is maintained primarily to aid
+[iexcli](https://github/hp4k1h5/iexcli) development. contributors welcome.
+
+
+---
+
+### ORIGINAL README
 
 Build dashboards (or any other application) using ascii/ansi art and javascript.
 
